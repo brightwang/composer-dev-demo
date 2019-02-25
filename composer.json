@@ -1,0 +1,11 @@
+{
+    "name": "igg/composer-dev-demo",
+    "description": "测试",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "IGG\\Util\\Tools\\": "src/"
+        }
+    },
+    "require": {}
+}
