@@ -1,5 +1,5 @@
 {
-    "name": "igg/composer-dev-demo",
+    "name": "test/composer-dev-demo",
     "description": "测试",
     "type": "library",
     "autoload": {
